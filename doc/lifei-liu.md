@@ -1,8 +1,8 @@
 #Bio
 
- - [ ] lifei
- - [ ] China
- - [ ] Hot Pot
- - [ ] Reading
- - [ ] Yellow
-so far so good 
+ - [Name ] lifei
+ - [ where are you from] China
+ - [ what is your favorite food] Hot Pot
+ - [ one of your habits] Reading
+ - [favorite color ] Yellow
+so far so good
